@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rishabh-portfolio/static/css/main.293907b4.css",
+    "main.js": "/Rishabh-portfolio/static/js/main.bf27d0c3.js",
+    "index.html": "/Rishabh-portfolio/index.html",
+    "main.293907b4.css.map": "/Rishabh-portfolio/static/css/main.293907b4.css.map",
+    "main.bf27d0c3.js.map": "/Rishabh-portfolio/static/js/main.bf27d0c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.293907b4.css",
+    "static/js/main.bf27d0c3.js"
+  ]
+}
